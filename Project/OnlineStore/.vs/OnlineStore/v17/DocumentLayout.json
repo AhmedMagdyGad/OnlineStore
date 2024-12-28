@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\onlinestore\\usermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\usermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\onlinestore\\adminmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\adminmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\onlinestore\\forgetpasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\forgetpasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\onlinestore\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\onlinestore\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\businesslayer\\userfavoriteproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\userfavoriteproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\businesslayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\businesslayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\businesslayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B9B271-CDF6-49C2-9DFD-151CA43E970C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA3F2CC-5EA6-41B1-8BC2-71D454C5C758}|DataAcessLayer\\DataAcessLayer.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\dataacesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA3F2CC-5EA6-41B1-8BC2-71D454C5C758}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\onlinestore\\usermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\usermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\onlinestore\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\onlinestore\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\onlinestore\\forgetpasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\forgetpasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|d:\\iti things\\windowsform\\onlinestore\\project\\onlinestore\\onlinestore\\adminmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E1FE0A-0A7B-4248-B2E9-930D48CD09E3}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\adminmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserFavoriteProductsService.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\UserFavoriteProductsService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\UserFavoriteProductsService.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\UserFavoriteProductsService.cs",
+              "RelativeToolTip": "BusinessLayer\\UserFavoriteProductsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:14:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserMode.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\UserMode.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\UserMode.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\UserMode.cs",
+              "RelativeToolTip": "OnlineStore\\UserMode.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDABAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:34:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminMode.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\AdminMode.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\AdminMode.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\AdminMode.cs",
+              "RelativeToolTip": "OnlineStore\\AdminMode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:48:47.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgetPasswordPage.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\ForgetPasswordPage.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\ForgetPasswordPage.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\ForgetPasswordPage.cs",
+              "RelativeToolTip": "OnlineStore\\ForgetPasswordPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:02:58.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterPage.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\RegisterPage.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\RegisterPage.cs",
+              "RelativeToolTip": "OnlineStore\\RegisterPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:09:24.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\LoginPage.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\LoginPage.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\LoginPage.cs",
+              "RelativeToolTip": "OnlineStore\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:50:13.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CategoryService.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\CategoryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:46:21.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ProductService.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\ProductService.cs",
+              "RelativeToolTip": "BusinessLayer\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:45:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\UserService.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\BusinessLayer\\UserService.cs",
+              "RelativeToolTip": "BusinessLayer\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBBwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:45:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\DataAcessLayer\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\DataAcessLayer\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DataAcessLayer\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:29:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\LoginPage.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\LoginPage.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\LoginPage.cs [Design]",
+              "RelativeToolTip": "OnlineStore\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:59:12.848Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.cs [Design]",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\RegisterPage.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\RegisterPage.cs [Design]",
+              "RelativeToolTip": "OnlineStore\\RegisterPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:09:09.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgetPasswordPage.cs [Design]",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\ForgetPasswordPage.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\ForgetPasswordPage.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\ForgetPasswordPage.cs [Design]",
+              "RelativeToolTip": "OnlineStore\\ForgetPasswordPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:58:11.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMode.cs [Design]",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\AdminMode.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\AdminMode.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\AdminMode.cs [Design]",
+              "RelativeToolTip": "OnlineStore\\AdminMode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:43:33.761Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMode.cs [Design]",
+              "DocumentMoniker": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\UserMode.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\UserMode.cs",
+              "ToolTip": "D:\\ITI Things\\WindowsForm\\OnlineStore\\Project\\OnlineStore\\OnlineStore\\UserMode.cs [Design]",
+              "RelativeToolTip": "OnlineStore\\UserMode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:56:21.475Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

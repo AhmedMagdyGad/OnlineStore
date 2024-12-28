@@ -1,0 +1,12 @@
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\bin\Debug\net9.0\DataAcessLayer.deps.json
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\bin\Debug\net9.0\DataAcessLayer.dll
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\bin\Debug\net9.0\DataAcessLayer.pdb
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.csproj.AssemblyReference.cache
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.AssemblyInfoInputs.cache
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.AssemblyInfo.cs
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.dll
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\refint\DataAcessLayer.dll
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.pdb
+D:\ITI Things\WindowsForm\OnlineStore\Project\OnlineStore\DataAcessLayer\obj\Debug\net9.0\ref\DataAcessLayer.dll
